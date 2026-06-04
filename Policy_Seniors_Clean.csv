@@ -1,0 +1,963 @@
+iso_code,DATE,INDICATOR,VALUE,CATEGORY,QUARTER,YEAR,YearQuarter
+ERI,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+ERI,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+BTN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BTN,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+BTN,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+BTN,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+BTN,2024-04-01,policy_revacc_interval,6 months to 1 year,Older adults,1,2024,2024Q2
+BTN,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+BTN,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+BTN,2024-07-01,policy_revacc_interval,6 months to 1 year,Older adults,2,2024,2024Q3
+IRN,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+IRN,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+IRN,2024-04-01,policy_revacc_interval,12 m,Older adults,1,2024,2024Q2
+IRN,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+KEN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+KEN,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+KEN,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+KEN,2025-01-01,policy_comment,60 + year old adults,Older adults,4,2024,2025Q1
+COM,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+COM,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+COM,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+VNM,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+VNM,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+VNM,2025-01-01,policy_comment,Older adults are adults above 50 years old,Older adults,4,2024,2025Q1
+VNM,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BGR,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+BGR,2025-01-01,policy_comment,60,Older adults,4,2024,2025Q1
+BGR,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BGR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MYS,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MYS,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+MYS,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+MYS,2025-01-01,policy_comment,60 years old,Older adults,4,2024,2025Q1
+BHS,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BHS,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BHS,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+GEO,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+SOM,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+SOM,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+SOM,2024-04-01,policy_revacc_interval,2 Months,Older adults,1,2024,2024Q2
+SOM,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SOM,2025-01-01,policy_revacc_interval,OTHER,Older adults,4,2024,2025Q1
+MDV,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MDV,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+MDV,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+MDV,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+MDV,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+MDV,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+ECU,2025-01-01,policy_comment,Adultos mayores 65 años y más,Older adults,4,2024,2025Q1
+ECU,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+ECU,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+ECU,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+KGZ,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+KGZ,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+KGZ,2024-07-01,policy_revacc_interval,21-28,Older adults,2,2024,2024Q3
+KGZ,2024-04-01,policy_revacc_interval,21-28,Older adults,1,2024,2024Q2
+KGZ,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+KGZ,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+TUV,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+TUV,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+BFA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BFA,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+SWE,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SWE,2024-07-01,policy_revacc_interval,Approx 6 months,Older adults,2,2024,2024Q3
+SWE,2024-07-01,policy_comment,"During spring 2024 (since March, 1 ) only all adults 80 yrs and above and persons 65-79 yrs living in LTCF or receiving daily care at home are recommended vaccination",Older adults,2,2024,2024Q3
+SWE,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+SWE,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+SWE,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+SWE,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+SWE,2024-04-01,policy_comment,"During spring 2024 (since March, 1 ) only all adults 80 yrs and above and persons 65-79 yrs living in LTCF or receiving daily care at home are recommended vaccination",Older adults,1,2024,2024Q2
+SWE,2024-04-01,policy_revacc_interval,Approx 6 months,Older adults,1,2024,2024Q2
+SWE,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+SWE,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+SWE,2024-10-01,policy_comment,"Adults 80 yrs and above and persons 65-79 yrs living in LTCF or receiving daily care at home are recommended vaccination twice a year, in the spring and in fall/winter. All other adults 65-79 yrs are recommended vaccination only in fall/winter",Older adults,3,2024,2024Q4
+SWE,2025-01-01,policy_comment,"Alla persons >80  yrs  and persons 65-79 yrs in LTCF or with home care are recommended avaccinations twice a year. All the othe in age group 65-79 are recommended vaccination once a year, in fall",Older adults,4,2024,2025Q1
+SWE,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SWE,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+MWI,2025-01-01,policy_comment,>60 years and above,Older adults,4,2024,2025Q1
+MWI,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MWI,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+MWI,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+HTI,2024-10-01,policy_revacc,NO,Older adults,3,2024,2024Q4
+HTI,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+HTI,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+HTI,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+LUX,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+LUX,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+LUX,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+LUX,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+LUX,2024-07-01,policy_revacc_interval,6 mois après la dose précédente,Older adults,2,2024,2024Q3
+LUX,2024-04-01,policy_revacc_interval,6 mois après la dose précédente,Older adults,1,2024,2024Q2
+LUX,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+LUX,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+LUX,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+LUX,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+LUX,2024-10-01,policy_revacc_interval,6 mois après la dose précédente,Older adults,3,2024,2024Q4
+LUX,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+LUX,2025-01-01,policy_comment,il y a un délai minimum de 6 mois s'il y a une infection ou une vaccination antérieure. Vaccination annuelle en automne,Older adults,4,2024,2025Q1
+ZAF,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+ZAF,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+NOR,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+NOR,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+NOR,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+NOR,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+NOR,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+NOR,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+NOR,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+NOR,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+NOR,2025-01-01,policy_comment,65 years and older,Older adults,4,2024,2025Q1
+NOR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+FIN,2024-07-01,policy_revacc_interval,yearly,Older adults,2,2024,2024Q3
+FIN,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+FIN,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+FIN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+FIN,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+FIN,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+FIN,2025-01-01,policy_comment,assessed yearly,Older adults,4,2024,2025Q1
+MKD,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MKD,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+MKD,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+MKD,2025-01-01,policy_comment,≥65 yoa,Older adults,4,2024,2025Q1
+BEN,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+BEN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BEN,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+HND,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+HND,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+HND,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+HND,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+HND,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+HND,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+HND,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+HND,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+HND,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+HND,2024-04-01,policy_revacc_interval,6 meses,Older adults,1,2024,2024Q2
+SUR,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+SUR,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+SUR,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+SUR,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+KNA,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+KNA,2024-04-01,policy_revacc,NO,Older adults,1,2024,2024Q2
+KNA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+COD,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+COD,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+DNK,2025-01-01,policy_comment,"Free vaccination is offered from October 1 – December 20, to individuals who turn 65 by December 20, 2024, individuals under 65 with certain chronic diseases, pregnant women, household members of individuals with congenital or acquired immunodeficiency or children at increased risk for severe COVID-19 or influenza, as well as early retirees.",Older adults,4,2024,2025Q1
+DNK,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+DNK,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+DNK,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+DNK,2024-07-01,policy_comment,National policy expired 15th of January 2024. Persons +65 with cronical conditions can get vaccinated with a doctors apporval,Older adults,2,2024,2024Q3
+DNK,2024-04-01,policy_comment,National policy expired 15th of January 2024. Persons +65 with cronical conditions can get vaccinated with a doctors apporval,Older adults,1,2024,2024Q2
+DNK,2024-10-01,policy_revacc_interval,The COVID-19 vaccination is offered as a seasonal vaccine during the autumn/winter period. Time interval for periodic re-vaccination is 12 month.  At least 3 months must have passed since the last COVID-19 vaccination.,Older adults,3,2024,2024Q4
+DNK,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+DNK,2024-10-01,policy_comment,"Free vaccination is offered from October 1 – December 20, to individuals who turn 65 by December 20, 2024, individuals under 65 with certain chronic diseases, pregnant women, household members of individuals with congenital or acquired immunodeficiency or children at increased risk for severe COVID-19 or influenza, as well as early retirees.",Older adults,3,2024,2024Q4
+DNK,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+PAK,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+PAK,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+AIA,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+AIA,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+AIA,2024-10-01,policy_revacc_interval,6months,Older adults,3,2024,2024Q4
+AIA,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+AIA,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+AIA,2024-07-01,policy_revacc_interval,6months,Older adults,2,2024,2024Q3
+AIA,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+LKA,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+LKA,2025-01-01,policy_comment,COVID vacciantion was not conducted in the country in 2024,Older adults,4,2024,2025Q1
+LBR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+ATG,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+ATG,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+ATG,2024-10-01,policy_comment,The Interval is the same at the WHO guidelines. Country doesnt currently have vaccines to vaccinate.,Older adults,3,2024,2024Q4
+AUS,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+AUS,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+AUS,2024-04-01,policy_comment,75 years and up,Older adults,1,2024,2024Q2
+AUS,2024-04-01,policy_revacc_interval,Recommended every 6 months,Older adults,1,2024,2024Q2
+AUS,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+AUS,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+AUS,2024-07-01,policy_comment,75 years and up,Older adults,2,2024,2024Q3
+AUS,2024-07-01,policy_revacc_interval,Recommended every 6 months,Older adults,2,2024,2024Q3
+AUS,2024-10-01,policy_comment,75 years and up,Older adults,3,2024,2024Q4
+AUS,2024-10-01,policy_revacc_interval,Recommended every 6 months,Older adults,3,2024,2024Q4
+AUS,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+AUS,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+AUS,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+AUS,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+AUS,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+AUS,2025-01-01,policy_comment,"≥ 75 years, Recommended every 6 months",Older adults,4,2024,2025Q1
+SGP,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SGP,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SGP,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+SGP,2025-01-01,policy_comment,60 years and above,Older adults,4,2024,2025Q1
+BWA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BWA,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BWA,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+PRT,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+PRT,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+PRT,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+PRT,2025-01-01,policy_comment,≥ 60 years,Older adults,4,2024,2025Q1
+PRT,2024-10-01,policy_revacc_interval,1 year,Older adults,3,2024,2024Q4
+PRT,2024-10-01,policy_comment,≥ 60 years,Older adults,3,2024,2024Q4
+PRT,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+PRT,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+PRT,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+PRT,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+PRT,2024-07-01,policy_revacc_interval,1 year,Older adults,2,2024,2024Q3
+PRT,2024-07-01,policy_comment,≥ 60 years,Older adults,2,2024,2024Q3
+MMR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MMR,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+MMR,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+SEN,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+SEN,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SEN,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+SEN,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+SEN,2024-10-01,policy_revacc_interval,6,Older adults,3,2024,2024Q4
+SEN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SEN,2024-07-01,policy_revacc_interval,6,Older adults,2,2024,2024Q3
+SEN,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+SEN,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+SEN,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+SEN,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+SEN,2024-04-01,policy_revacc_interval,6,Older adults,1,2024,2024Q2
+DMA,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+DMA,2024-04-01,policy_revacc,NO,Older adults,1,2024,2024Q2
+DMA,2024-04-01,policy_comment,No COVID 19 Vaccines in stock,Older adults,1,2024,2024Q2
+DMA,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+DMA,2024-10-01,policy_revacc,NO,Older adults,3,2024,2024Q4
+DMA,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+DMA,2024-07-01,policy_revacc,NO,Older adults,2,2024,2024Q3
+DMA,2024-07-01,policy_comment,No COVID 19 Vaccines in stock,Older adults,2,2024,2024Q3
+DMA,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+DMA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+DMA,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+DMA,2024-10-01,policy_comment,No COVID 19 Vaccines in stock,Older adults,3,2024,2024Q4
+NIC,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+NIC,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+NIC,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+IDN,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+IDN,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+IDN,2024-10-01,policy_revacc_interval,12 months,Older adults,3,2024,2024Q4
+IDN,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+IDN,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+IDN,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+IDN,2024-07-01,policy_revacc_interval,12 months,Older adults,2,2024,2024Q3
+IDN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+IDN,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+IDN,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+IDN,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+IDN,2024-04-01,policy_revacc_interval,12 months,Older adults,1,2024,2024Q2
+ISL,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+ISL,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+ISL,2025-01-01,policy_comment,60+ - issued yearly,Older adults,4,2024,2025Q1
+ISL,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+JAM,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+JAM,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+JAM,2024-04-01,policy_revacc_interval,6-12 months,Older adults,1,2024,2024Q2
+JAM,2024-04-01,policy_comment,As per WHO interim recommendations 10 November 2023,Older adults,1,2024,2024Q2
+JAM,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+JAM,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+JAM,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+TKM,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+SMR,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+SMR,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+SMR,2024-04-01,policy_revacc_interval,1 year,Older adults,1,2024,2024Q2
+SMR,2024-10-01,policy_revacc_interval,1 year,Older adults,3,2024,2024Q4
+SMR,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+SMR,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+SMR,2024-07-01,policy_revacc_interval,1 year,Older adults,2,2024,2024Q3
+SMR,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+SMR,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+SMR,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+LTU,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+LTU,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+LTU,2024-04-01,policy_revacc_interval,once a year,Older adults,1,2024,2024Q2
+LTU,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+LTU,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+LSO,2024-10-01,policy_revacc_interval,6 months after the first dose,Older adults,3,2024,2024Q4
+LSO,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+LSO,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+BOL,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+BOL,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BOL,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+LVA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+LVA,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+LVA,2024-07-01,policy_revacc_interval,12,Older adults,2,2024,2024Q3
+LVA,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+LVA,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+LVA,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+MCO,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+MCO,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+MCO,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+ALB,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+ALB,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+ALB,2024-10-01,policy_revacc_interval,every year,Older adults,3,2024,2024Q4
+ALB,2024-07-01,policy_revacc_interval,every year,Older adults,2,2024,2024Q3
+ALB,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+ALB,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+ALB,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+ALB,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+ALB,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+CHL,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+CHL,2024-04-01,policy_comment,Se autoriza a personas de 60 años y más.,Older adults,1,2024,2024Q2
+CHL,2024-10-01,policy_comment,Se autoriza a personas de 60 años y más.,Older adults,3,2024,2024Q4
+CHL,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+CHL,2024-07-01,policy_comment,Se autoriza a personas de 60 años y más.,Older adults,2,2024,2024Q3
+CHL,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+CHL,2025-01-01,policy_comment,60 años y más,Older adults,4,2024,2025Q1
+CHL,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+CHL,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+KWT,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+KWT,2025-01-01,policy_revacc_interval,OTHER,Older adults,4,2024,2025Q1
+KWT,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+KWT,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+KWT,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+BLZ,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+BLZ,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+BLZ,2024-04-01,policy_revacc_interval,6 -12 months,Older adults,1,2024,2024Q2
+BLZ,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+BLZ,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+BLZ,2024-10-01,policy_revacc_interval,6 -12 months,Older adults,3,2024,2024Q4
+BLZ,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+BLZ,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+BLZ,2024-07-01,policy_revacc_interval,6 -12 months,Older adults,2,2024,2024Q3
+BLZ,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+BLZ,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BLZ,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SSD,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+SSD,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SSD,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+CRI,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+CRI,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+CRI,2025-01-01,policy_comment,Vacunación no es obligatoria,Older adults,4,2024,2025Q1
+CRI,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+CRI,2024-10-01,policy_comment,Vacuna Moderna XBB1.5,Older adults,3,2024,2024Q4
+CRI,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+CRI,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+CRI,2024-10-01,policy_revacc_interval,anual,Older adults,3,2024,2024Q4
+CRI,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+CRI,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+CRI,2024-04-01,policy_revacc_interval,anual,Older adults,1,2024,2024Q2
+CRI,2024-04-01,policy_comment,"Actualmente en espera de ingreso de vacuna XBB 1.5, disponible vacuna bivalente para completar esquemas",Older adults,1,2024,2024Q2
+CRI,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+CRI,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+CRI,2024-07-01,policy_revacc_interval,anual,Older adults,2,2024,2024Q3
+CRI,2024-07-01,policy_comment,Vacuna Moderna XBB1.5,Older adults,2,2024,2024Q3
+PAN,2024-07-01,policy_revacc_interval,12 meses,Older adults,2,2024,2024Q3
+PAN,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+PAN,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+PAN,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+PAN,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+PAN,2024-04-01,policy_revacc_interval,12 meses,Older adults,1,2024,2024Q2
+PAN,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+PAN,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+PAN,2024-10-01,policy_revacc_interval,12 meses,Older adults,3,2024,2024Q4
+PAN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+PAN,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+PAN,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+SRB,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SRB,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+CUB,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+CUB,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+CUB,2024-10-01,policy_revacc_interval,1 año,Older adults,3,2024,2024Q4
+CUB,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+CUB,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+CUB,2024-04-01,policy_revacc_interval,1 año,Older adults,1,2024,2024Q2
+FJI,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+FJI,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+FJI,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+DOM,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+HRV,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+HRV,2025-01-01,policy_comment,≥65,Older adults,4,2024,2025Q1
+HRV,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+HRV,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+ETH,2024-10-01,policy_revacc_interval,6 months,Older adults,3,2024,2024Q4
+ETH,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+ETH,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+ETH,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+ETH,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+ETH,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+ETH,2024-10-01,policy_comment,Booster dose,Older adults,3,2024,2024Q4
+TGO,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+TGO,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+TGO,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SWZ,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SWZ,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+GIN,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+GIN,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+GIN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+CYP,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+CYP,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+CYP,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+CYP,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+CYP,2024-07-01,policy_comment,moderately or severely immunocompromised,Older adults,2,2024,2024Q3
+CYP,2024-07-01,policy_revacc_interval,6 months,Older adults,2,2024,2024Q3
+CYP,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+CYP,2024-10-01,policy_comment,moderately or severely immunocompromised,Older adults,3,2024,2024Q4
+CYP,2024-10-01,policy_revacc_interval,4 months,Older adults,3,2024,2024Q4
+CYP,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+CYP,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+CYP,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+PNG,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+PNG,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+PNG,2025-01-01,policy_comment,"Older adults >45 years, Booster vaccination started on 13 Jan 2022 using AZ and JJ  JJ: 2-6 months after 1st dose AZ: 6 months after 2nd dose (Sinopharm was not recommended)",Older adults,4,2024,2025Q1
+PNG,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+PNG,2024-10-01,policy_comment,45 years and up,Older adults,3,2024,2024Q4
+PNG,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+PNG,2024-07-01,policy_comment,45 years and up,Older adults,2,2024,2024Q3
+PNG,2024-04-01,policy_comment,45 years and up,Older adults,1,2024,2024Q2
+PNG,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+GHA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+GHA,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+GHA,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+GHA,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+GHA,2024-04-01,policy_revacc_interval,6-12 months,Older adults,1,2024,2024Q2
+GHA,2025-01-01,policy_comment,Nil,Older adults,4,2024,2025Q1
+GHA,2025-01-01,policy_revacc_interval,OTHER,Older adults,4,2024,2025Q1
+HUN,2025-01-01,policy_comment,>60 years,Older adults,4,2024,2025Q1
+HUN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+HUN,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+HUN,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+HUN,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+NPL,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+NPL,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+NPL,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+TLS,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+TLS,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+TLS,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BRN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BRN,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BRN,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+RUS,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+RUS,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+RUS,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+JOR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+JOR,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+MSR,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+MSR,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+MSR,2024-07-01,policy_revacc_interval,12 months,Older adults,2,2024,2024Q3
+UKR,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+UKR,2024-07-01,policy_revacc_interval,6-12  month,Older adults,2,2024,2024Q3
+UKR,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+UKR,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+UKR,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+UKR,2024-04-01,policy_revacc_interval,6-12  month,Older adults,1,2024,2024Q2
+UKR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+UKR,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+UKR,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+PHL,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+TCD,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+TCD,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+TCD,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+TCD,2025-01-01,policy_comment,RAS,Older adults,4,2024,2025Q1
+CMR,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+CMR,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+CMR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+ZMB,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+ZMB,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+ZMB,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+ZMB,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+ZMB,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+ZMB,2024-10-01,policy_revacc_interval,6 months,Older adults,3,2024,2024Q4
+BLR,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BLR,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+BLR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BLR,2024-04-01,policy_revacc_interval,1 раз в 12 мес.,Older adults,1,2024,2024Q2
+BLR,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+BLR,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+BLR,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+BLR,2024-07-01,policy_revacc_interval,1 раз в 12 мес.,Older adults,2,2024,2024Q3
+BLR,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+COG,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+COG,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+COG,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+NGA,2025-01-01,policy_revacc_interval,OTHER,Older adults,4,2024,2025Q1
+NGA,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+NGA,2025-01-01,policy_comment,Two months after 1st dose of J&J for Older Adults aged 50 years and above,Older adults,4,2024,2025Q1
+NGA,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+NGA,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+NGA,2024-10-01,policy_comment,Only J&J was available in Nigeria in 2024,Older adults,3,2024,2024Q4
+NGA,2024-10-01,policy_revacc_interval,2 Months after first dose of J&J,Older adults,3,2024,2024Q4
+NGA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+NZL,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+NZL,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+NZL,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+BEL,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BEL,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+BEL,2025-01-01,policy_comment,Any person aged 65 years and over,Older adults,4,2024,2025Q1
+BEL,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BEL,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+BEL,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+BEL,2024-07-01,policy_comment,No distinction is being made anymore in Belgium between 'vaccination' and 're-vaccination',Older adults,2,2024,2024Q3
+BEL,2024-07-01,policy_revacc_interval,Yearly,Older adults,2,2024,2024Q3
+BEL,2024-10-01,policy_comment,No distinction is being made anymore in Belgium between 'vaccination' and 're-vaccination',Older adults,3,2024,2024Q4
+BEL,2024-10-01,policy_revacc_interval,Yearly,Older adults,3,2024,2024Q4
+BEL,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+BEL,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+BEL,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+BEL,2024-04-01,policy_comment,No distinction is being made anymore in Belgium between 'vaccination' and 're-vaccination',Older adults,1,2024,2024Q2
+BEL,2024-04-01,policy_revacc_interval,Yearly,Older adults,1,2024,2024Q2
+BEL,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+BHR,2025-01-01,policy_revacc_interval,OTHER,Older adults,4,2024,2025Q1
+BHR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BHR,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SDN,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+SDN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SYR,2024-04-01,policy_revacc_interval,6 months,Older adults,1,2024,2024Q2
+SYR,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+SYR,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+SYR,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+SYR,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+SYR,2024-10-01,policy_revacc_interval,6 months,Older adults,3,2024,2024Q4
+SYR,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+SYR,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+SYR,2024-07-01,policy_revacc_interval,6 months,Older adults,2,2024,2024Q3
+SYR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SYR,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SYR,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+SYR,2025-01-01,policy_comment,6 months,Older adults,4,2024,2025Q1
+PSE,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+PSE,2024-04-01,policy_revacc,NO,Older adults,1,2024,2024Q2
+PSE,2024-07-01,policy_revacc,NO,Older adults,2,2024,2024Q3
+PSE,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+UGA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+UGA,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+UGA,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+MAC,2024-10-01,policy_comment,60 years and up,Older adults,3,2024,2024Q4
+MAC,2024-10-01,policy_revacc_interval,3 months since last non-XBB COVID-19 dose,Older adults,3,2024,2024Q4
+MAC,2024-04-01,policy_comment,60 years and up,Older adults,1,2024,2024Q2
+MAC,2024-04-01,policy_revacc_interval,3 months since last non-XBB COVID-19 dose,Older adults,1,2024,2024Q2
+MAC,2024-07-01,policy_comment,60 years and up,Older adults,2,2024,2024Q3
+MAC,2024-07-01,policy_revacc_interval,3 months since last non-XBB COVID-19 dose,Older adults,2,2024,2024Q3
+DEU,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+DEU,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+DEU,2025-01-01,policy_comment,"For adults >= 60 years of age: Baseline immunization consisting of ≥ 3 antigenic contacts (vaccination or infection, with at least 1 vaccine dose). Annual booster vaccination in the fall.",Older adults,4,2024,2025Q1
+DEU,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+MNE,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MNE,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+MNE,2025-01-01,policy_comment,65 +,Older adults,4,2024,2025Q1
+MNE,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+MNE,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+MNE,2024-07-01,policy_comment,it depends on the epidemiological situation,Older adults,2,2024,2024Q3
+MNE,2024-10-01,policy_revacc_interval,A booster dose of the vaccine is recommended at an interval of 6-12 months after the previous dose,Older adults,3,2024,2024Q4
+MNE,2024-10-01,policy_comment,it depends on the epidemiological situation,Older adults,3,2024,2024Q4
+MNE,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+MNE,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+MNE,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+MNE,2024-04-01,policy_comment,it depends on the epidemiological situation,Older adults,1,2024,2024Q2
+MNE,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+AND,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+AND,2024-04-01,policy_revacc_interval,6,Older adults,1,2024,2024Q2
+AND,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+AND,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+AND,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+AND,2024-10-01,policy_revacc_interval,6,Older adults,3,2024,2024Q4
+AND,2024-07-01,policy_revacc_interval,6,Older adults,2,2024,2024Q3
+AND,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+AND,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+AND,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+AND,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+AND,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+AND,2025-01-01,policy_comment,Mayor o igual a 60 años,Older adults,4,2024,2025Q1
+CZE,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+CZE,2025-01-01,policy_comment,"60+ years; Vaccination is recommended, regardless of the number of doses of COVID-19 vaccine administered in the past.",Older adults,4,2024,2025Q1
+CZE,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+TCA,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+TCA,2024-04-01,policy_revacc_interval,12 months,Older adults,1,2024,2024Q2
+TCA,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+TCA,2024-07-01,policy_revacc_interval,12 months,Older adults,2,2024,2024Q3
+PER,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+PER,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+PER,2024-04-01,policy_revacc_interval,2 meses,Older adults,1,2024,2024Q2
+PER,2024-04-01,policy_comment,refuerzo,Older adults,1,2024,2024Q2
+PER,2024-10-01,policy_revacc_interval,3 meses,Older adults,3,2024,2024Q4
+PER,2024-10-01,policy_comment,dosis única anual,Older adults,3,2024,2024Q4
+PER,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+PER,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+PER,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+PER,2024-07-01,policy_revacc_interval,2 meses,Older adults,2,2024,2024Q3
+PER,2024-07-01,policy_comment,Unica anual,Older adults,2,2024,2024Q3
+PER,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+PER,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+PER,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+PER,2025-01-01,policy_revacc_interval,OTHER,Older adults,4,2024,2025Q1
+PER,2025-01-01,policy_comment,en el intervalo de 3 meses,Older adults,4,2024,2025Q1
+YEM,2025-01-01,policy_comment,50 years and above,Older adults,4,2024,2025Q1
+YEM,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+YEM,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+YEM,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+LCA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+LCA,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+LCA,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+LCA,2024-10-01,policy_revacc_interval,8 Weeks,Older adults,3,2024,2024Q4
+LCA,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+LCA,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+NLD,2025-01-01,policy_comment,All adults aged 60 years and over (born in 1964 or before). No distinction is made between primary vaccination or booster vaccinations.,Older adults,4,2024,2025Q1
+NLD,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+NLD,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+NLD,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+HKG,2024-04-01,policy_comment,50 years and up,Older adults,1,2024,2024Q2
+HKG,2024-04-01,policy_revacc_interval,180 days,Older adults,1,2024,2024Q2
+HKG,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+HKG,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+HKG,2024-07-01,policy_comment,50 years and up,Older adults,2,2024,2024Q3
+HKG,2024-07-01,policy_revacc_interval,180 days,Older adults,2,2024,2024Q3
+HKG,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+HKG,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+HKG,2024-10-01,policy_comment,50 years and up,Older adults,3,2024,2024Q4
+HKG,2024-10-01,policy_revacc_interval,180 days,Older adults,3,2024,2024Q4
+HKG,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+HKG,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+SVN,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SVN,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+SVN,2025-01-01,policy_comment,"COVID-19 vaccination is recommended for residents of long-term care facilities, vulnerable individuals with chronic conditions (from 6 months of age), and those aged 65 or older. Others may vaccinate if they wish. Each autumn, our recommendations are updated. Individuals can choose to vaccinate annually if desired.",Older adults,4,2024,2025Q1
+SVN,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+SVN,2024-10-01,policy_comment,"COVID-19 vaccination is recommended for residents of long-term care facilities, vulnerable individuals with chronic conditions (from 6 months of age), and those aged 65 or older. Others may vaccinate if they wish. Each autumn, our recommendations are updated. Individuals can choose to vaccinate annually if desired.",Older adults,3,2024,2024Q4
+SVN,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+SVN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SVN,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+MDG,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+MDG,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+MDG,2024-10-01,policy_revacc_interval,6 mois,Older adults,3,2024,2024Q4
+MDG,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+MDG,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MDG,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+MDG,2024-10-01,policy_comment,"Le pays a suivi les recommandations de GTCV pays pour la vaccination des groupes prioritaires, tout en conservant le principe de vaccination volontaire.",Older adults,3,2024,2024Q4
+GMB,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+GMB,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+GMB,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+MLT,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+MLT,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+MLT,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MLT,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+MLT,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+MLT,2024-04-01,policy_comment,"with regards to time frame there is no stipulated interval between booster doses. It depends on the caring consultant of the patient wtih chronic conditions and in the case of older ppl, it is offered as a yearly booster with the flu vaccine, unless otherwise prescribed by the caring physician.",Older adults,1,2024,2024Q2
+MLT,2024-07-01,policy_comment,"with regards to time frame there is no stipulated interval between booster doses. It depends on the caring consultant of the patient wtih chronic conditions and in the case of older ppl, it is offered as a yearly booster with the flu vaccine, unless otherwise prescribed by the caring physician.",Older adults,2,2024,2024Q3
+MLT,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+MLT,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+PRY,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+PRY,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+PRY,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+PRY,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+PRY,2024-04-01,policy_revacc_interval,6 - 12,Older adults,1,2024,2024Q2
+PRY,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+PRY,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+PRY,2024-07-01,policy_revacc_interval,6 - 12,Older adults,2,2024,2024Q3
+PRY,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+PRY,2024-10-01,policy_revacc_interval,6 - 12,Older adults,3,2024,2024Q4
+PRY,2025-01-01,policy_revacc_interval,OTHER,Older adults,4,2024,2025Q1
+PRY,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+PRY,2025-01-01,policy_comment,60 años y más,Older adults,4,2024,2025Q1
+ARG,2024-07-01,policy_revacc_interval,6,Older adults,2,2024,2024Q3
+ARG,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+ARG,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+AUT,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+AUT,2025-01-01,policy_revacc_interval,OTHER,Older adults,4,2024,2025Q1
+AUT,2025-01-01,policy_comment,People 60+ years,Older adults,4,2024,2025Q1
+AUT,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+AUT,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+AUT,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+AUT,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+CYM,2024-07-01,policy_revacc,NO,Older adults,2,2024,2024Q3
+CYM,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+CYM,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+CYM,2024-10-01,policy_revacc,NO,Older adults,3,2024,2024Q4
+URY,2024-10-01,policy_revacc_interval,Al menos 4 meses después de la última dosis o cursar infección,Older adults,3,2024,2024Q4
+URY,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+URY,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+URY,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+URY,2025-01-01,policy_comment,Mayores de 65 años,Older adults,4,2024,2025Q1
+URY,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+URY,2024-07-01,policy_revacc_interval,Al menos 6 meses después de la última dosis o cursar infección,Older adults,2,2024,2024Q3
+URY,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+URY,2024-04-01,policy_revacc_interval,Al menos 6 meses después de la última dosis o cursar infección,Older adults,1,2024,2024Q2
+URY,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+NER,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+NER,2024-04-01,policy_comment,"A part les séries de doses initialement prévues, la politique n'a pas encore spéficié les cas de renouvellement périodique",Older adults,1,2024,2024Q2
+NER,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+NER,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+CAF,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+CAF,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+CAF,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+CAF,2024-10-01,policy_revacc_interval,28 jours,Older adults,3,2024,2024Q4
+CAF,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+CAF,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+CAF,2024-10-01,policy_comment,RAS,Older adults,3,2024,2024Q4
+WSM,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+WSM,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+WSM,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+ROU,2024-07-01,policy_revacc_interval,3 months,Older adults,2,2024,2024Q3
+ROU,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+ROU,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+ROU,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+QAT,2025-01-01,policy_comment,50+ years,Older adults,4,2024,2025Q1
+QAT,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+QAT,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+QAT,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+QAT,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+QAT,2024-04-01,policy_revacc,NO,Older adults,1,2024,2024Q2
+USA,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+USA,2024-10-01,policy_revacc_interval,6 months,Older adults,3,2024,2024Q4
+USA,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+USA,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+USA,2024-10-01,policy_comment,"All adults 65 years and older are recommended for 2 doses of 2024-2025 COVID-19 vaccine, spaced 6 months apart (min interval 2 months)",Older adults,3,2024,2024Q4
+SLV,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SLV,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SLV,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+SLV,2025-01-01,policy_comment,"Esquema de vacunación para mayores de 12 años (incluyendo adultos, embarazadas y mujeres dando lactancia materna)",Older adults,4,2024,2025Q1
+SLV,2024-04-01,policy_revacc,NO,Older adults,1,2024,2024Q2
+SLV,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+SLV,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+SLV,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+SLV,2024-10-01,policy_revacc_interval,al menos 6 meses posterior a la última dosis,Older adults,3,2024,2024Q4
+SLV,2024-07-01,policy_revacc,NO,Older adults,2,2024,2024Q3
+SLV,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+TJK,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+TJK,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+TJK,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+TJK,2024-04-01,policy_revacc_interval,от 3 до 6 месяцев,Older adults,1,2024,2024Q2
+TJK,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+LAO,2025-01-01,policy_comment,≥ 60 years old,Older adults,4,2024,2025Q1
+LAO,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+LAO,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+LAO,2024-04-01,policy_comment,60 years and up,Older adults,1,2024,2024Q2
+LAO,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+LAO,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+BRA,2024-10-01,policy_comment,"Recomendação de recebimento de uma dose a cada seis meses, para pessoas a partir de 60 anos de idade, com a vacina disponível e atualizada.",Older adults,3,2024,2024Q4
+BRA,2024-10-01,policy_revacc_interval,seis meses,Older adults,3,2024,2024Q4
+BRA,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+BRA,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+BRA,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+BRA,2025-01-01,policy_comment,"Recomendação de recebimento de uma dose a cada seis meses, para pessoas a partir de 60 anos de idade, com a vacina disponível e atualizada.",Older adults,4,2024,2025Q1
+BRA,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BRA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BRA,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+BRA,2024-04-01,policy_comment,"Recomendação de recebimento de uma dose a cada seis meses, para pessoas a partir de 60 anos de idade, com a vacina disponível e atualizada.",Older adults,1,2024,2024Q2
+BRA,2024-04-01,policy_revacc_interval,seis meses,Older adults,1,2024,2024Q2
+BRA,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+BRA,2024-07-01,policy_comment,"Recomendação de recebimento de uma dose a cada seis meses, para pessoas a partir de 60 anos de idade, com a vacina disponível e atualizada.",Older adults,2,2024,2024Q3
+BRA,2024-07-01,policy_revacc_interval,seis meses,Older adults,2,2024,2024Q3
+BRA,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+BRA,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+ITA,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+ITA,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+ITA,2024-10-01,policy_revacc_interval,12m,Older adults,3,2024,2024Q4
+ITA,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+ITA,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+ITA,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+ITA,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+ITA,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+ITA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BRB,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BRB,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BRB,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+BRB,2024-07-01,policy_revacc_interval,Annual,Older adults,2,2024,2024Q3
+BRB,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+BRB,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+BRB,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+BRB,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+BRB,2024-04-01,policy_revacc_interval,Annual,Older adults,1,2024,2024Q2
+BRB,2024-10-01,policy_revacc_interval,Annual,Older adults,3,2024,2024Q4
+BRB,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+BRB,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+IRL,2024-07-01,policy_comment,"Those over 70 years of age have been targeted for the Autumn 2023 and Spring 2024 campaigns, the latter commenced on April 22nd. https://rcpi.access.preservica.com/uncategorized/IO_962b8c2e-69b3-4858-a5bd-8c3ee4f70560/. https://www.hse.ie/eng/health/immunisation/hcpinfo/covid19vaccineinfo4hps/clinicalguidance.pdf",Older adults,2,2024,2024Q3
+IRL,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+IRL,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+IRL,2024-07-01,policy_revacc_interval,Six months,Older adults,2,2024,2024Q3
+IRL,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+IRL,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+IRL,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+IRL,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+IRL,2024-04-01,policy_revacc_interval,Six months,Older adults,1,2024,2024Q2
+IRL,2024-04-01,policy_comment,"Those over 70 years of age have been targeted for the Autumn 2023 and Spring 2024 campaigns, the latter is due to commence on April 22nd. https://rcpi.access.preservica.com/uncategorized/IO_962b8c2e-69b3-4858-a5bd-8c3ee4f70560/. https://www.hse.ie/eng/health/immunisation/hcpinfo/covid19vaccineinfo4hps/clinicalguidance.pdf",Older adults,1,2024,2024Q2
+IRL,2025-01-01,policy_comment,"Winter 2024 campaign lasted from mid September 2024 to End February 2025, targeting those aged 60+ years",Older adults,4,2024,2025Q1
+IRL,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+CHE,2024-10-01,policy_revacc_interval,yearly,Older adults,3,2024,2024Q4
+CHE,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+CHE,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+CHE,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+CHE,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+CHE,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+CHE,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+CHE,2024-04-01,policy_revacc_interval,yearly,Older adults,1,2024,2024Q2
+CHE,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+CHE,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+CHE,2024-07-01,policy_revacc_interval,yearly,Older adults,2,2024,2024Q3
+CHE,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+SAU,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+SAU,2024-04-01,policy_revacc,NO,Older adults,1,2024,2024Q2
+SAU,2024-04-01,policy_comment,50 years and above,Older adults,1,2024,2024Q2
+SAU,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SAU,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SAU,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+COL,2024-07-01,policy_revacc_interval,La dosis adicional se debe administrar después que hayan pasado al menos 6 meses de su esquema de vacunación (Esquema primario refuerzos).,Older adults,2,2024,2024Q3
+COL,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+COL,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+COL,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+COL,2024-04-01,policy_revacc_interval,La dosis adicional se debe administrar después que hayan pasado al menos 6 meses de su esquema de vacunación (Esquema primario refuerzos).,Older adults,1,2024,2024Q2
+COL,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+COL,2024-10-01,policy_revacc_interval,La dosis adicional se debe administrar después que hayan pasado al menos 6 meses de su esquema de vacunación (Esquema primario refuerzos).,Older adults,3,2024,2024Q4
+COL,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+COL,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+COL,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+COL,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+COL,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+KOR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+KOR,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+KOR,2025-01-01,policy_comment,65 years old or older,Older adults,4,2024,2025Q1
+KOR,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+SVK,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+SVK,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+SVK,2025-01-01,policy_comment,people 59+,Older adults,4,2024,2025Q1
+SVK,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+ARM,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+ARM,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+GUY,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+GUY,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+GUY,2024-04-01,policy_revacc_interval,Depends on the type of vaccine to be administered to older adults,Older adults,1,2024,2024Q2
+MEX,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+MEX,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+MEX,2024-07-01,policy_revacc_interval,6-12 meses,Older adults,2,2024,2024Q3
+MEX,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MEX,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+MEX,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+MEX,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+MEX,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+MEX,2024-04-01,policy_revacc_interval,6-12 meses,Older adults,1,2024,2024Q2
+MEX,2024-10-01,policy_revacc_interval,6-12 meses,Older adults,3,2024,2024Q4
+MEX,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+MEX,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+GBR,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+GBR,2025-01-01,policy_comment,Older adults aged 65 and over,Older adults,4,2024,2025Q1
+GBR,2025-01-01,policy_revacc_interval,OTHER,Older adults,4,2024,2025Q1
+GBR,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+GBR,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+GBR,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+GBR,2024-10-01,policy_revacc_interval,Those aged 75 years and above and residents in care homes for older adults received a spring booster vaccine.,Older adults,3,2024,2024Q4
+GBR,2024-10-01,policy_comment,https://assets.publishing.service.gov.uk/media/66e7fbf624c4f1826d81bb32/Greenbook-chapter-14a-20240916.pdf,Older adults,3,2024,2024Q4
+KAZ,2024-07-01,policy_revacc_interval,6 месяцев,Older adults,2,2024,2024Q3
+KAZ,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+KAZ,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+CAN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+CAN,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+CAN,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+CAN,2025-01-01,policy_comment,Vaccination recommended two times a year for adults 65 years and older,Older adults,4,2024,2025Q1
+MRT,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+MRT,2025-01-01,policy_revacc_interval,OTHER,Older adults,4,2024,2025Q1
+MRT,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+MRT,2025-01-01,policy_comment,RAS,Older adults,4,2024,2025Q1
+IRQ,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+IRQ,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BDI,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+BDI,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+OMN,2024-10-01,policy_comment,NIL,Older adults,3,2024,2024Q4
+OMN,2024-10-01,policy_revacc_interval,> 6 months,Older adults,3,2024,2024Q4
+OMN,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+OMN,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+OMN,2024-07-01,policy_revacc_interval,> 6 months,Older adults,2,2024,2024Q3
+OMN,2024-07-01,policy_comment,NIL,Older adults,2,2024,2024Q3
+OMN,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+OMN,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+OMN,2024-04-01,policy_comment,NIL,Older adults,1,2024,2024Q2
+OMN,2024-04-01,policy_revacc_interval,> 6 months,Older adults,1,2024,2024Q2
+OMN,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+OMN,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+STP,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+STP,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+UZB,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+UZB,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+UZB,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+UZB,2025-01-01,policy_comment,В настоящее время рекомендуется вакцинация один раз в год,Older adults,4,2024,2025Q1
+UZB,2024-04-01,policy_revacc_interval,4 мес,Older adults,1,2024,2024Q2
+UZB,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+UZB,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+UZB,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+UZB,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+UZB,2024-07-01,policy_revacc_interval,4 мес,Older adults,2,2024,2024Q3
+AGO,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+AGO,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MDA,2024-10-01,policy_revacc_interval,12 months,Older adults,3,2024,2024Q4
+MDA,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+MDA,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+MDA,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+MDA,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+MDA,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+MDA,2024-07-01,policy_revacc_interval,12 months,Older adults,2,2024,2024Q3
+MDA,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+MDA,2024-04-01,policy_revacc_interval,12 months,Older adults,1,2024,2024Q2
+MDA,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+MDA,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+MDA,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+BGD,2024-10-01,policy_revacc_interval,After 6 Months,Older adults,3,2024,2024Q4
+BGD,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+BGD,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+BGD,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+BGD,2024-07-01,policy_revacc_interval,After 6 Months,Older adults,2,2024,2024Q3
+BGD,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+BGD,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+BGD,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+BGD,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+BGD,2025-01-01,policy_comment,Periodic re-vaccination recommended for high risk group,Older adults,4,2024,2025Q1
+EST,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+EST,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+EST,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+EST,2024-07-01,policy_comment,60+,Older adults,2,2024,2024Q3
+EST,2024-07-01,policy_revacc_interval,6 months,Older adults,2,2024,2024Q3
+EST,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+EST,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+EST,2024-04-01,policy_comment,60+,Older adults,1,2024,2024Q2
+EST,2024-04-01,policy_revacc_interval,6 months,Older adults,1,2024,2024Q2
+EST,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+EST,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+GTM,2025-01-01,policy_vacc,NO,Older adults,4,2024,2025Q1
+GTM,2025-01-01,policy_revacc,NO,Older adults,4,2024,2025Q1
+GTM,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+GTM,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+GTM,2024-04-01,policy_revacc_interval,"3 refuerzos después del esquema primario, con intervalo de 6 semanas después de la ultima dosis",Older adults,1,2024,2024Q2
+GTM,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+GTM,2024-10-01,policy_revacc_interval,"3 refuerzos después del esquema primario, con intervalo de 6 semanas después de la ultima dosis",Older adults,3,2024,2024Q4
+GTM,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+AFG,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+AFG,2024-10-01,policy_revacc_interval,12 months,Older adults,3,2024,2024Q4
+AFG,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+AFG,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+AFG,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+AFG,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+AFG,2024-07-01,policy_revacc_interval,12 months,Older adults,2,2024,2024Q3
+AFG,2024-04-01,policy_revacc_interval,12 Months,Older adults,1,2024,2024Q2
+AFG,2024-04-01,policy_comment,We administer the COVID-19 vaccine as per SAGE guideline,Older adults,1,2024,2024Q2
+AFG,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+AFG,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+AFG,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+AFG,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+JPN,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+JPN,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+ESP,2024-07-01,policy_revacc_interval,1 year,Older adults,2,2024,2024Q3
+ESP,2024-07-01,policy_revacc,YES,Older adults,2,2024,2024Q3
+ESP,2024-07-01,policy_vacc,YES,Older adults,2,2024,2024Q3
+ESP,2025-01-01,policy_comment,from 60 years of age,Older adults,4,2024,2025Q1
+ESP,2025-01-01,policy_revacc_interval,12_MONTHS,Older adults,4,2024,2025Q1
+ESP,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+ESP,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+ESP,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+ESP,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+ESP,2024-04-01,policy_revacc_interval,1 year,Older adults,1,2024,2024Q2
+ESP,2024-10-01,policy_vacc,YES,Older adults,3,2024,2024Q4
+ESP,2024-10-01,policy_revacc,YES,Older adults,3,2024,2024Q4
+ESP,2024-10-01,policy_revacc_interval,1 year,Older adults,3,2024,2024Q4
+GNB,2024-04-01,policy_comment,a dose unica para o reforço e de dois a seis meses,Older adults,1,2024,2024Q2
+GNB,2024-04-01,policy_revacc_interval,o intervalo e de dois a seis meses,Older adults,1,2024,2024Q2
+GNB,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+GNB,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+GNB,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+GNB,2025-01-01,policy_comment,"A recomendação de doses de reforça e mais para pessoas idosas, técnico de saúde e pessoas com problemas de saude",Older adults,4,2024,2025Q1
+GNB,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+GNB,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+CIV,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+CIV,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
+CIV,2025-01-01,policy_revacc_interval,6_MONTHS,Older adults,4,2024,2025Q1
+CIV,2025-01-01,policy_comment,"Directies pour l'Astrazéneca, 4 semaines pour le Sinopharm et  le Johnson & Johnson  en une dose.  la dose de rappel ou booster est administrée 6 mois plutard après les doses primaires.",Older adults,4,2024,2025Q1
+CIV,2024-04-01,policy_comment,"Aussi la personne agée peut recevoir une dose suivante (booster),  6 mois après les deux premières doses pour tous les types de vaccins utilisés par le pays.",Older adults,1,2024,2024Q2
+CIV,2024-04-01,policy_revacc_interval,"L'intervalle est selon le vaccin adminitré à la personne agée: si Astrazeneca 12 semaines après la première dose, si Pfizer 8 semaines après la première dose, si Johnson & Johnson 6 mois après la première dose, si Sinopharm 4 semaines après la première dose.",Older adults,1,2024,2024Q2
+CIV,2024-04-01,policy_revacc,YES,Older adults,1,2024,2024Q2
+CIV,2024-04-01,policy_vacc,YES,Older adults,1,2024,2024Q2
+EGY,2025-01-01,policy_revacc_interval,OTHER,Older adults,4,2024,2025Q1
+EGY,2025-01-01,policy_vacc,YES,Older adults,4,2024,2025Q1
+EGY,2025-01-01,policy_revacc,YES,Older adults,4,2024,2025Q1
